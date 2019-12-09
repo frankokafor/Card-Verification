@@ -1,4 +1,6 @@
-package com.frankokafor.cardverification;
+package com.frankokafor.card_verification;
+
+import static org.junit.jupiter.api.Assertions.fail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +13,7 @@ public class CardVerificationAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		fail("Not yet implemented");
 	}
 
 }
