@@ -1,4 +1,4 @@
-# Card-Verification
+# Card-Verification-Application
 This is an atm card verification application.
 
 Basic Operations
@@ -7,9 +7,9 @@ Basic Operations
 
 2)do the following operations from the web page
 
-a) input card complete card number to get full card details
+   a) input card complete card number to get full card details
 
-b) get general statistics of cards querried from the system
+   b) get general statistics of cards querried from the system
 
 3) rest endpoint to return a json respond of card details when card number is appended to the uri
 
